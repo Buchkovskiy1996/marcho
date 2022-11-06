@@ -1,0 +1,11 @@
+body {
+color: $default-color;
+font-size: 26px;
+@extend %qicksand-500;
+}
+
+.container {
+max-width: 1200px;
+margin: 0 auto;
+padding: 0 15px;
+}
